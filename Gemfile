@@ -10,6 +10,7 @@ group :development do
   gem 'rspec-rails', '2.5.0'
   gem 'annotate-models', '1.0.4'
   gem 'factory_girl_rails', '1.0'
+  gem 'awesome_print'
 end
 
 group :test do
@@ -17,3 +18,4 @@ group :test do
   gem 'webrat', '0.7.1'
   gem 'factory_girl_rails', '1.0'
 end
+
